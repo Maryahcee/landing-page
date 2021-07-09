@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../projects/instaclone"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "instaclone"
+	}
+}
